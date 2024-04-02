@@ -13,8 +13,8 @@ void merge(int * A,int p,int q,int r)
     }
     L[n1] = 10000;
     R[n2] = 10000;
-    int i = 1;
-    int j = 1;
+    int i = 0;
+    int j = 0;
     for(int k = p;k<=r;k++)
     {
         if (L[i]<=R[j])
