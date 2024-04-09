@@ -12,4 +12,4 @@ Just to make some differences
 6. [binaryAdd.c](binaryAdd.c)
 7. [findMaximumSubarray.c](findMaximumSubarray.c)
 8. [merge_sort_without_sentinel.c](merge_sort_without_sentinel.c)
-
+9. [linerFindMaximumSubarray.c](./linerFindMaximumSubarray.c)
